@@ -294,3 +294,14 @@ position: fixed;
     position: sticky;
     
 }
+
+@media screen and (max-width: 800px){
+  .footer{
+    max-width: 800px;
+    height: auto;
+  }
+
+  .direitos{
+    max-width: 200px;
+  }
+}
