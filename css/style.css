@@ -218,11 +218,15 @@ button{
 }
 
 @media screen and (max-width: 800px) {
-  .box-a, .box-b{
+  .box-a{
     font-size: 8px;
     height: 150px;
     display: block;
     width: auto;
+  }
+
+  .carrosel{
+    display: block;
   }
 
   .direitos{
