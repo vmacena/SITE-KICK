@@ -299,6 +299,7 @@ position: fixed;
   .footer{
     max-width: 800px;
     height: auto;
+    font-size: 10px;
   }
 
   .direitos{
