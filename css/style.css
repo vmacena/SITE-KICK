@@ -303,5 +303,6 @@ position: fixed;
 
   .direitos{
     max-width: 200px;
+    font-size: 10px;
   }
 }
